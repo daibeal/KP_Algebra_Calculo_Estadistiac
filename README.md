@@ -31,7 +31,7 @@
 <h3 align="center">Álgebra, Cálculo y Estadística</h3>
 
   <p align="center">
-    project_description
+    Entrega final del módulo de KeepCoding®
     <br />
     <a href="https://github.com/daibeal/KP_Algebra_Calculo_Estadistiac"><strong>Explore the docs »</strong></a>
     <br />
